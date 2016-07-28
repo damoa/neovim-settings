@@ -20,3 +20,4 @@ source ~/.config/nvim/damoa/neomake_settings.vim
 source ~/.config/nvim/damoa/vim_airline.vim
 source ~/.config/nvim/damoa/open_browser_settings.vim
 source ~/.config/nvim/damoa/my_code_highlighting.vim
+source ~/.config/nvim/damoa/advanced_mappings.vim
