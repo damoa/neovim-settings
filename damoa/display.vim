@@ -12,6 +12,6 @@ let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 set laststatus=2
 
 "color scheme
-colorscheme flattened_light
+colorscheme darkblue
 
 highlight LineNr ctermfg=grey
