@@ -12,6 +12,7 @@ let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 set laststatus=2
 
 "color scheme
-colorscheme darkblue
+set background=light
+colorscheme PaperColor
 
 highlight LineNr ctermfg=grey
