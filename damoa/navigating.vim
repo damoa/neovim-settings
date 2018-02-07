@@ -1,7 +1,7 @@
 map <Tab> :bnext<cr>
 map <S-Tab> :bprevious<cr>
 
-map ,a \|:Ag ''<Left>
+map ,a \|:FlyGrep<cr>
 map ,f :FZF<cr>
 map NT :NERDTreeFind<cr>
 
