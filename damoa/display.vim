@@ -17,7 +17,7 @@ set laststatus=2
 "
 " highlight LineNr ctermfg=grey
 set termguicolors     " enable true colors support
-let ayucolor="light"  " for light version of theme
+let ayucolor="mirage"  " for light version of theme
 " let ayucolor="mirage" " for mirage version of theme
 " let ayucolor="dark"   " for dark version of theme
 colorscheme ayu
