@@ -9,6 +9,7 @@ source ~/.config/nvim/damoa/language_support.vim
 
 call plug#end()
 
+source ~/.config/nvim/damoa/ripgrep_settings.vim
 source ~/.config/nvim/damoa/display.vim
 source ~/.config/nvim/damoa/dispatch.vim
 source ~/.config/nvim/damoa/bdel_only.vim
