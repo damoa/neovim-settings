@@ -3,7 +3,7 @@ map <S-Tab> :bprevious<cr>
 
 map ,a \|:Ag ''<Left>
 map ,g \|:FlyGrep<cr>
-map ,f :FZF<cr>
+map ,f :ProjectFilesPreview<cr>
 map NT :NERDTreeFind<cr>
 
 map ,p :lprevious<cr>
