@@ -13,7 +13,7 @@ set backspace=indent,eol,start  " backspace through everything in insert mode
 hi CursorLine   cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
 hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white guibg=darkred guifg=white
 " highlight current line
-set cursorline
+" set cursorline
 
 map ,t :Tabularize /
 
