@@ -21,3 +21,6 @@ map // gc<cr>
 
 " allways use clipboard for copy & paste
 " set clipboard+=unnamedplus
+
+" do not close brackets, etc. automatically
+let g:autoclose_on = 0
