@@ -28,3 +28,5 @@ source ~/.config/nvim/damoa/advanced_mappings.vim
 source ~/.config/nvim/damoa/neomake_settings.vim
 " source ~/.config/nvim/damoa/prettier.vim
 source ~/.config/nvim/damoa/calendar.vim
+source ~/.config/nvim/damoa/vim_test_settings.vim
+source ~/.config/nvim/damoa/vimspector_settings.vim
