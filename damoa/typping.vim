@@ -24,3 +24,5 @@ map // gc<cr>
 
 " do not close brackets, etc. automatically
 let g:autoclose_on = 0
+
+set smartindent

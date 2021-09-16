@@ -1,3 +1,5 @@
+set t_Co=256
+
 " Display line numbers
 set number
 
@@ -9,7 +11,7 @@ let $NVIM_TUI_ENABLE_CURSOR_SHAPE=1
 " true color
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 
-set laststatus=2
+" set laststatus=2
 
 "color scheme
 " set background=light
@@ -17,11 +19,11 @@ set laststatus=2
 "
 " highlight LineNr ctermfg=grey
 set termguicolors     " enable true colors support
-" let ayucolor="light"  " for light version of theme
-" let ayucolor="mirage" " for mirage version of theme
-" let ayucolor="dark"   " for dark version of theme
-" colorscheme ayu
-set background=light
+
+syntax enable
+set background=dark
 colorscheme solarized8
 
 set conceallevel=0
+
+let g:airline_theme='solarized'

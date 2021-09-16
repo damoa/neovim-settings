@@ -9,12 +9,11 @@ source ~/.config/nvim/damoa/language_support.vim
 
 call plug#end()
 
-source ~/.config/nvim/damoa/fzf_settings.vim
+" source ~/.config/nvim/damoa/fzf_settings.vim
 source ~/.config/nvim/damoa/ripgrep_settings.vim
 source ~/.config/nvim/damoa/display.vim
 source ~/.config/nvim/damoa/dispatch.vim
 source ~/.config/nvim/damoa/bdel_only.vim
-source ~/.config/nvim/damoa/deoplete.vim
 source ~/.config/nvim/damoa/typping.vim
 source ~/.config/nvim/damoa/searching.vim
 source ~/.config/nvim/damoa/navigating.vim
