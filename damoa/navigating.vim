@@ -6,7 +6,7 @@ map ,g \|:FlyGrep<cr>
 map ,f :FZF<cr>
 map ,h <C-v>e"+y,a<C-r>+<Enter>/<C-r>+<Enter>
 map gd <C-v>e"+y,adef.<C-r>+\|def.self.<C-r>+\|scope.\:<C-r>+\|module.<C-r>+\|class.<C-r>+<Enter>
-map NT :NERDTreeFind<cr>
+map NT :Vexplore<cr>
 
 map ,p :lprevious<cr>
 map ,n :lnext<cr>
