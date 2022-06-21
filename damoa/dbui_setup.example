@@ -1,0 +1,4 @@
+let g:dbs = [
+\ { 'name': 'foo', 'url': 'mysql://user@localhost/my_db' },
+\ ]
+
